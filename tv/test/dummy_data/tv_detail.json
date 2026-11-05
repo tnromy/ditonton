@@ -1,0 +1,32 @@
+{
+  "backdrop_path": "/path.jpg",
+  "first_air_date": "2021-10-12",
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    }
+  ],
+  "id": 1,
+  "name": "Name",
+  "number_of_episodes": 10,
+  "number_of_seasons": 1,
+  "original_name": "Original Name",
+  "overview": "Overview",
+  "popularity": 1.0,
+  "poster_path": "/path.jpg",
+  "vote_average": 1.0,
+  "vote_count": 1,
+  "seasons": [
+    {
+      "air_date": "2011-04-17",
+      "episode_count": 10,
+      "id": 3624,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/wgfKiqzuMrFIkU1M68DDDY8kGC1.jpg",
+      "season_number": 1,
+      "vote_average": 8.4
+    }
+  ]
+}
